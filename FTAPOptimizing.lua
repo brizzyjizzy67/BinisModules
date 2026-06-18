@@ -1,5 +1,6 @@
---if not _G.Isalreadythere then return end
+if _G.Isalreadythere then return end
 _G.Isalreadythere = true
+-- highkey just anything to stop it from injecting twice
 
 -- global vars
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
