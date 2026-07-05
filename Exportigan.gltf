@@ -37849,6 +37849,68 @@
       "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"299bc066-74d3-393f-0a5b-7dc700000e92","Shape":"Block","Material":"grass","Color":"(84, 63, 84)","Transparency":0,"Anchored":true}
     },
     {
+      "children": [ 3528, 3529, 3531, 3532, 3534 ],
+      "name": "PoisonSmallHole",
+      "translation": [-13.6921997, 0.0993652344, 82.5017014],
+      "rotation": [-0, -1, -0, -5.96046448e-08],
+      "extras": {"RobloxInstanceType":"Model","RobloxUniqueId":"299bc066-74d3-393f-0a5b-7dc700000e6a"}
+    },
+    {
+      "children": [ ],
+      "mesh": 128,
+      "name": "PoisonUnderPart",
+      "translation": [0, -5.09643555, -5.00001526],
+      "rotation": [0, -5.96046448e-08, 0, 1],
+      "scale": [105.404007, 1.25000072, 97.6420288],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"299bc066-74d3-393f-0a5b-7dc700000e78","Shape":"Block","Material":"neon","Color":"(63, 24, 63)","Transparency":0.5,"Anchored":true}
+    },
+    {
+      "children": [ 3530 ],
+      "mesh": 129,
+      "name": "ExtinguishPart",
+      "translation": [-1.47021484, -5.72198486, -3.32348633],
+      "rotation": [0, -5.96046448e-08, 0, 1],
+      "scale": [103.904007, 7.5, 95.1420288],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"299bc066-74d3-393f-0a5b-7dc700000e81","Shape":"Block","Material":"neon","Color":"(89, 34, 89)","Transparency":0.5,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 130,
+      "name": "Tex",
+      "extras": {"RobloxInstanceType":"Texture","RobloxUniqueId":"299bc066-74d3-393f-0a5b-7dc700000e82","RobloxDecalTextureId":"rbxasset://textures/water/normal_05.dds"}
+    },
+    {
+      "children": [ ],
+      "mesh": 128,
+      "name": "PoisonUnderPart",
+      "translation": [-3, -5.34594727, -1],
+      "rotation": [0, -5.96046448e-08, 0, 1],
+      "scale": [89.404007, 0.250000715, 91.6420288],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"299bc066-74d3-393f-0a5b-7dc700000e77","Shape":"Block","Material":"neon","Color":"(63, 24, 63)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ 3533 ],
+      "mesh": 129,
+      "name": "PoisonHurtPart",
+      "translation": [-1.47021484, -5.72198486, -3.32348633],
+      "rotation": [0, -5.96046448e-08, 0, 1],
+      "scale": [103.904007, 7.5, 95.1420288],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"299bc066-74d3-393f-0a5b-7dc700000e70","Shape":"Block","Material":"neon","Color":"(89, 34, 89)","Transparency":0.5,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 131,
+      "name": "Tex",
+      "extras": {"RobloxInstanceType":"Texture","RobloxUniqueId":"299bc066-74d3-393f-0a5b-7dc700000e73","RobloxDecalTextureId":"rbxasset://textures/water/normal_12.dds"}
+    },
+    {
+      "children": [ 3535, 3536, 3537 ],
+      "name": "PoisonSign2",
+      "translation": [13.8040161, -0.160232544, -8.06190491],
+      "rotation": [0.11585179, 0.826487839, 0.0834401548, 0.544549286],
+      "extras": {"RobloxInstanceType":"Model","RobloxUniqueId":"299bc066-74d3-393f-0a5b-7dc700000e6b"}
+    },
+    {
       "children": [ ],
       "mesh": 132,
       "name": "Part",
@@ -37873,6 +37935,68 @@
       "rotation": [-0.707108438, 0.7071051, -2.41869657e-05, -1.93716987e-05],
       "scale": [12.8638124, 1, 0.25],
       "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"299bc066-74d3-393f-0a5b-7dc700000e6c","Shape":"Block","Material":"woodplanks","Color":"(188, 155, 93)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ 3539, 3541, 3543, 3544, 3545 ],
+      "name": "PoisonBigHole",
+      "translation": [2.30786133, -12.4006348, -10.9983253],
+      "rotation": [-0, -1, -0, -5.96046448e-08],
+      "extras": {"RobloxInstanceType":"Model","RobloxUniqueId":"299bc066-74d3-393f-0a5b-7dc700000e51"}
+    },
+    {
+      "children": [ 3540 ],
+      "mesh": 129,
+      "name": "PoisonHurtPart",
+      "translation": [-1.47021484, -5.84619141, 2.17649841],
+      "rotation": [0, -5.96046448e-08, 0, 1],
+      "scale": [103.904007, 7.75, 108.142029],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"299bc066-74d3-393f-0a5b-7dc700000e57","Shape":"Block","Material":"neon","Color":"(89, 34, 89)","Transparency":0.5,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 133,
+      "name": "Tex",
+      "extras": {"RobloxInstanceType":"Texture","RobloxUniqueId":"299bc066-74d3-393f-0a5b-7dc700000e5a","RobloxDecalTextureId":"rbxasset://textures/water/normal_12.dds"}
+    },
+    {
+      "children": [ 3542 ],
+      "mesh": 129,
+      "name": "ExtinguishPart",
+      "translation": [-1.47021484, -5.84619141, 2.17649841],
+      "rotation": [0, -5.96046448e-08, 0, 1],
+      "scale": [103.904007, 7.75, 108.142029],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"299bc066-74d3-393f-0a5b-7dc700000e68","Shape":"Block","Material":"neon","Color":"(89, 34, 89)","Transparency":0.5,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 134,
+      "name": "Tex",
+      "extras": {"RobloxInstanceType":"Texture","RobloxUniqueId":"299bc066-74d3-393f-0a5b-7dc700000e69","RobloxDecalTextureId":"rbxasset://textures/water/normal_05.dds"}
+    },
+    {
+      "children": [ ],
+      "mesh": 128,
+      "name": "PoisonUnderPart",
+      "translation": [0, -5.09680176, 0],
+      "rotation": [0, -5.96046448e-08, 0, 1],
+      "scale": [105.404007, 1.25000072, 107.642029],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"299bc066-74d3-393f-0a5b-7dc700000e5f","Shape":"Block","Material":"neon","Color":"(63, 24, 63)","Transparency":0.5,"Anchored":true}
+    },
+    {
+      "children": [ ],
+      "mesh": 128,
+      "name": "PoisonUnderPart",
+      "translation": [-0.999938965, -5.34661865, -3.00000763],
+      "rotation": [0, -5.96046448e-08, 0, 1],
+      "scale": [101.404007, 0.250000715, 101.642029],
+      "extras": {"RobloxInstanceType":"Part","RobloxUniqueId":"299bc066-74d3-393f-0a5b-7dc700000e5e","Shape":"Block","Material":"neon","Color":"(63, 24, 63)","Transparency":0,"Anchored":true}
+    },
+    {
+      "children": [ 3546, 3547, 3548 ],
+      "name": "PoisonSign2",
+      "translation": [24.0536499, -1.63234711, 21.7291412],
+      "rotation": [-0.0327168368, 0.498919487, -0.0566440821, 0.864176154],
+      "extras": {"RobloxInstanceType":"Model","RobloxUniqueId":"299bc066-74d3-393f-0a5b-7dc700000e52"}
     },
     {
       "children": [ ],
